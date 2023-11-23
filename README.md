@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/vlma2flbjlryilv9?svg=true)](https://ci.appveyor.com/project/denis-shubochkin/ahj-hw10)
+[![Build status](https://ci.appveyor.com/api/projects/status/vlma2flbjlryilv9?svg=true)](https://ci.appveyor.com/project/finchik/ahj-hw10)
 
 https://finchik.github.io/ahj_hw10/
 
